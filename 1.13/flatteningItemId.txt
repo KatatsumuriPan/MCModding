@@ -243,6 +243,7 @@ minecraft:coal#0	minecraft:coal
 minecraft:coal#1	minecraft:charcoal
 minecraft:golden_apple#0	minecraft:golden_apple
 minecraft:golden_apple#1	minecraft:enchanted_golden_apple
+minecraft:sign	minecraft:oak_sign
 minecraft:boat	minecraft:oak_boat
 minecraft:reeds	minecraft:sugar_cane
 minecraft:fish#0	minecraft:cod
